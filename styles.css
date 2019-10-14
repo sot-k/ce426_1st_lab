@@ -1,7 +1,7 @@
 /* text styles */
 body {
 
-	background-color: powderblue;
+	background-color: #4c8daf;
 	margin-left: 0;
 }
 h1 {
@@ -10,7 +10,12 @@ h1 {
 h5 {
 }
 p {
+	font-size: 18px;
 	margin-left:1.5em;
+}
+
+li {
+	font-size: 18px;
 }
 
 
@@ -41,7 +46,7 @@ li a:hover {
 
 /* active tab */
 .active {
-  background-color: #4CAF50;
+  background-color: #4c8daf;
   color: white;
 }
 
@@ -127,7 +132,7 @@ li a:hover {
 /* background immage */
 .bg {
   /* The image used */
-  background-image: url("snow.jpg");
+  background-image: url("snow1.png");
 
   /* Full height */
   height: 100%;
